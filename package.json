@@ -1,0 +1,16 @@
+{
+  "name": "tdd_dio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/findCrushListTest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.2.1",
+    "should": "^13.2.3"
+  }
+}
